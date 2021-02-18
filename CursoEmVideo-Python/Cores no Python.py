@@ -1,4 +1,5 @@
-# C O M O   C O L O C A R   C O R E S   N O   P Y T H O N
+'''C O M O   C O L O C A R   C O R E S   N O   P Y T H O N'''
+
 # Codigo geral:   \033[Tipo da fonte ; Cor do texto ; Cor do fundo m
 
 # NUMEROS PARA ESTILO:
