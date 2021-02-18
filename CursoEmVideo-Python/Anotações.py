@@ -5,3 +5,7 @@
 # bool -> Valores Logicos (ex.: True e False)
 # str -> Valores Caracteres ('Olá', '7.5', ' ')
 
+''' FUNÇÕES USUAIS '''
+# print('Texto') -> Mostra na tela o que está entre aspas
+# input('pergunta') -> Pede alguma coisa para o usuario
+# type(variável) -> Mostra o tipo primitivo da variável
