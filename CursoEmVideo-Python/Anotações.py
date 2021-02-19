@@ -8,8 +8,13 @@
 ''' FUNÇÕES USUAIS '''
 # print('Texto') -> Mostra na tela o que está entre aspas
 # input('pergunta') -> Pede alguma coisa para o usuario
-# type(variável) -> Mostra o tipo primitivo da variável
-# variavel.isnumeric() -> Para saber o que foi digitado pode ser númerico
-# variavel.inalpha() -> Para saber o que foi digitado pode ser alfabetico
-# variavel.isalnum(0 -> Para saber o que foi digitado pode ser nalfanumerico
-#is,ubwe
+# type(NomeDaVariavel) -> Mostra o tipo primitivo da variável
+
+'''Metodos de Tipos'''
+# NomeDaVariavel.isnumeric() -> Para saber se a variavel pode ser númerico
+# NomeDaVariavel.isalpha() -> Para saber se a variavel pode ser alfabetico
+# NomeDaVariavel.isalnum(0 -> Para saber se a variavel pode ser nalfanumerico
+# NomeDaVariavel.isupper -> Para saber se a variavel está somente em maiuscula
+# NomeDaVariavel.islower -> Para saber se a variavel está somente em minuscula
+# NomeDaVariavel.isprintable -> Para saber se a variavel pode ser impressa na tela
+# NomeDaVariavel.isspace -> Para saber se a variavel pode é espaço
