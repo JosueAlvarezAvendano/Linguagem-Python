@@ -9,3 +9,7 @@
 # print('Texto') -> Mostra na tela o que está entre aspas
 # input('pergunta') -> Pede alguma coisa para o usuario
 # type(variável) -> Mostra o tipo primitivo da variável
+# variavel.isnumeric() -> Para saber o que foi digitado pode ser númerico
+# variavel.inalpha() -> Para saber o que foi digitado pode ser alfabetico
+# variavel.isalnum(0 -> Para saber o que foi digitado pode ser nalfanumerico
+#is,ubwe
