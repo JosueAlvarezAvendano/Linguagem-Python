@@ -10,7 +10,7 @@
 # input('pergunta') -> Pede alguma coisa para o usuario
 # type(NomeDaVariavel) -> Mostra o tipo primitivo da variável
 
-'''Metodos de Tipos'''
+'''METODOS DE TIPOS'''
 # NomeDaVariavel.isnumeric() -> Para saber se a variavel pode ser númerico
 # NomeDaVariavel.isalpha() -> Para saber se a variavel pode ser alfabetico
 # NomeDaVariavel.isalnum(0 -> Para saber se a variavel pode ser nalfanumerico
