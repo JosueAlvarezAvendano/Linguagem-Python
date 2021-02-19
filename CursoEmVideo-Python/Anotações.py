@@ -11,11 +11,11 @@
 # type(NomeDaVariavel) -> Mostra o tipo primitivo da variável
 
 '''METODOS DE TIPOS'''
-# NomeDaVariavel.isnumeric() -> Para saber se a variavel pode ser númerico
+# NomeDaVariavel.isnumeric() -> Para saber se a variavel pode ser numérico
 # NomeDaVariavel.isalpha() -> Para saber se a variavel pode ser alfabetico
-# NomeDaVariavel.isalnum(0 -> Para saber se a variavel pode ser nalfanumerico
-# NomeDaVariavel.isupper -> Para saber se a variavel está somente em maiuscula
-# NomeDaVariavel.islower -> Para saber se a variavel está somente em minuscula
-# NomeDaVariavel.isprintable -> Para saber se a variavel pode ser impressa na tela
-# NomeDaVariavel.isspace -> Para saber se a variavel é espaço
-
+# NomeDaVariavel.isalnum() -> Para saber se a variavel pode ser nalfanumerico
+# NomeDaVariavel.isupper() -> Para saber se a variavel está somente em maiuscula
+# NomeDaVariavel.islower() -> Para saber se a variavel está somente em minuscula
+# NomeDaVariavel.isprintable() -> Para saber se a variavel pode ser impressa na tela
+# NomeDaVariavel.isspace() -> Para saber se a variavel é espaço
+# NomeDaVariavel.istitle() -> Para saber se a variavel está capitalizada (A 1º letra em maiuscula)
