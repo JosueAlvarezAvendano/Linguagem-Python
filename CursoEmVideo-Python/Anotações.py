@@ -17,4 +17,5 @@
 # NomeDaVariavel.isupper -> Para saber se a variavel está somente em maiuscula
 # NomeDaVariavel.islower -> Para saber se a variavel está somente em minuscula
 # NomeDaVariavel.isprintable -> Para saber se a variavel pode ser impressa na tela
-# NomeDaVariavel.isspace -> Para saber se a variavel pode é espaço
+# NomeDaVariavel.isspace -> Para saber se a variavel é espaço
+
