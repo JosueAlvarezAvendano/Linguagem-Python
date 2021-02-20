@@ -11,7 +11,7 @@
 # / -> Divição
 # ** -> Potência
 # // -> Divisão Inteira
-# % -> resto da Divisão
+# % -> Resto da Divisão
 
 '''ORDEM DE PRECEDÊNCIA'''
 # 1º -> ()
