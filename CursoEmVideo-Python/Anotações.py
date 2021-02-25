@@ -22,6 +22,7 @@
 ''' FUNÇÕES USUAIS '''
 # print('Texto') -> Mostra na tela o que está entre aspas
 # input('pergunta') -> Pede alguma coisa para o usuario
+# pow(base, expoente) -> Serve para realizar contas de potência
 
 '''METODOS DE TIPOS'''
 # type(NomeDaVariavel) -> Mostra o tipo primitivo da variável
