@@ -2,4 +2,4 @@
 # Dados: dolar = 5.38  (20/02/2021)
 real = float(input('Quantos reais você tem na carteira: R$'))
 dolar = real / 5.38
-print(f'Com R${real:.2f} você pode comprar ${dolar:.2f}')
+print(f'Com R${real:.2f} você pode comprar US${dolar:.2f}')
