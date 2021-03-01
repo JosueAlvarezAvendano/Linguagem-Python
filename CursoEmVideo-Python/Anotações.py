@@ -48,3 +48,25 @@ print(f'{divisao:.1f}') #Mostra até uma casa depois da virgula
 print(f'{divisao:.2f}') # Mostra até duas casa depois da virgula
 print('Olá, seja bem vindo ao mundo da programação', end=' ') # Se usa para colocar dois prints na mesma linha
 print('da linguagem Python.\nEste mundo é incrivel.') # Se usa para colocar uma parte do texto em outra linha
+
+''' MODULOS '''
+# Para importar modulos, é necessario realizar o seguinte comando:
+# import NomeDoModulo
+# Para importar apenas uma função de algum modulo, realizar o seguinte comando:
+# From NomeDoModulo import NomeDaFunção, NomeDeOutraFunção
+# Funções que já vem com o Python:
+# - math (matemática)
+
+# Modulo math:
+# ceil -> Está função realiza um arredondamento para cima
+# floor -> Está função realiza um arredondamento para baixo
+# trunc -> Está função realiza um corte da parte decimal do número
+# pow -> Está função realiza uma potência
+# sqrt -> Está função realiza uma raiz quadrada
+# factorial -> Está função realiza o fatorial
+
+# Modulo random:
+# random -> Está função gera um número aleatorio entre 0 e 1
+# ranint (1, 10) -> Está função gera um número aleatorio entre 1 e 10
+# choise -> Está função escolhe aleatoriamente algo de uma lista criada (A lista inicia no zero)
+# sufle -> Está função embaralha uma alista criada (A lista inicia no zero)
